@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Honda Engine", "Honda Engine.vcxproj", "{7F18CE4B-FD2D-4E28-B9BE-3F7508024633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		aaa|Win32 = aaa|Win32
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F18CE4B-FD2D-4E28-B9BE-3F7508024633}.aaa|Win32.ActiveCfg = Debug|Win32
+		{7F18CE4B-FD2D-4E28-B9BE-3F7508024633}.aaa|Win32.Build.0 = Debug|Win32
+		{7F18CE4B-FD2D-4E28-B9BE-3F7508024633}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7F18CE4B-FD2D-4E28-B9BE-3F7508024633}.Debug|Win32.Build.0 = Debug|Win32
+		{7F18CE4B-FD2D-4E28-B9BE-3F7508024633}.Release|Win32.ActiveCfg = Release|Win32
+		{7F18CE4B-FD2D-4E28-B9BE-3F7508024633}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
